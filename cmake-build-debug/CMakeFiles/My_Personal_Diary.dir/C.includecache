@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/workspace/Clion_Projects/My_Personal_Diary/file_handling.h
+dirent.h
+-
+errno.h
+-
+getTime.h
+D:/workspace/Clion_Projects/My_Personal_Diary/getTime.h
+string.h
+-
+
+D:/workspace/Clion_Projects/My_Personal_Diary/getTime.h
+stdio.h
+-
+time.h
+-
+string.h
+-
+
+D:/workspace/Clion_Projects/My_Personal_Diary/main.c
+time.h
+-
+stdio.h
+-
+string.h
+-
+process.h
+-
+stdlib.h
+-
+file_handling.h
+D:/workspace/Clion_Projects/My_Personal_Diary/file_handling.h
+
